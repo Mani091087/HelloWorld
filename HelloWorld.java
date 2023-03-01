@@ -5,5 +5,6 @@ public class HelloWorld {
 	System.out.println("Jenkins Job");
 	System.out.println("Github Jenkins Integration");
 	System.out.println("Jenkins ec2 Integration");
+	System.out.println("Success");
     }
 }
