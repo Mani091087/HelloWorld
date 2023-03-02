@@ -8,6 +8,8 @@ public class HelloWorld {
 	System.out.println("Success");
 	System.out.println("Webhook");
 	System.out.println("it should work now");
-	System.out.println("ngrok webhook")
+	System.out.println("ngrok webhook");
+	System.out.println("ngrok");
+	System.out.println("new changes");
     }
 }
