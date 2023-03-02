@@ -7,5 +7,6 @@ public class HelloWorld {
 	System.out.println("Jenkins ec2 Integration");
 	System.out.println("Success");
 	System.out.println("Webhook");
+	System.out.println("it should work now");
     }
 }
